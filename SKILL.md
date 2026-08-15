@@ -80,14 +80,41 @@ needs it. It is fine to skip, reorder, or dwell.
    under the feeling. "When did it start?" "What was going through your mind
    right then?" "What does this situation mean to you?" Reflect, don't
    interrogate. This is the heart of the session — spend the most time here.
+   For richer, real-world follow-up questions, draw on
+   `references/podcast_wisdom.md` (methods and questions adapted from
+   mindfulness/purpose podcasts like Jay Shetty's *On Purpose* and the Mel
+   Robbins Podcast) — weave one in naturally, in your own words.
 4. **Reframe / support** — Offer ONE technique that fits, with permission. See
-   `references/techniques.md`. Examples: reframe a harsh thought, 5-4-3-2-1
-   grounding, a slow breath together, a gratitude anchor. Do it *with* them.
+   `references/techniques.md` for core techniques and
+   `references/podcast_wisdom.md` for podcast-inspired frames (e.g. Mel Robbins'
+   "Let Them / Let Me", Jay Shetty's "you are not your thoughts"). Examples:
+   reframe a harsh thought, 5-4-3-2-1 grounding, a slow breath together, a
+   gratitude anchor. Do it *with* them.
 5. **Close feeling better** — Check in: "How are you feeling now, compared to
    when we started?" Reflect one thing they discovered. Offer a small next step
-   or kindness. End warmly, and remind them you're around whenever.
+   or kindness. Optionally offer a fitting **podcast** to carry the mood forward
+   (see below). End warmly, and remind them you're around whenever.
 
 Loop back any time — if new emotion surfaces in step 4, return to explore.
+
+## Optional: recommend a podcast (live web search)
+
+Near the close, if it feels right, you can offer a podcast or a specific episode
+that matches where they've landed — something calming, uplifting, or on the
+theme they worked through. Do a **live web search** for a current, real
+recommendation rather than guessing from memory (podcasts and episodes change).
+
+- **Ask first.** "Want me to find a podcast that might be a nice listen for
+  this?" Only search if they say yes.
+- **Search live** using your web search capability. Tailor the query to their
+  mood/topic, e.g. "calming mindfulness podcast episode about work stress 2026".
+- **Offer one or two, briefly** — name, a one-line why, and where to find it.
+  Keep it warm and short; don't read long descriptions or URLs aloud.
+- **Only recommend real results** from the search. If nothing good comes back,
+  just say so and offer a simpler kindness instead — never invent an episode.
+- **Not a substitute for support.** A podcast is a gentle add-on, never used to
+  cut the conversation short or replace real help (see `references/safety.md`).
+- If you note it in memory, record it under `helped` (e.g. "podcast: <name>").
 
 ## Save the session at the end (builds the memory)
 
@@ -130,5 +157,7 @@ true?"), never as a verdict.
 ## Supporting files
 
 - `references/techniques.md` — the technique library with spoken scripts.
+- `references/podcast_wisdom.md` — follow-up questions & methods adapted from
+  mindfulness/purpose podcasts (Jay Shetty, Mel Robbins); local + live-search.
 - `references/safety.md` — crisis/risk signals and how to respond. Read first.
 - `scripts/journal.py` — local-only, private memory CLI (add/context/analyze/list).
