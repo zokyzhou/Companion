@@ -8,9 +8,7 @@ description: >-
   that way and leave feeling a bit better, drawing on mindfulness/CBT techniques
   (naming, grounding, reflective listening, reframing, breathing, gratitude).
   Keeps a private, local-only memory to personalize over time. NOT a therapist.
-trigger: >-
-  User voices a feeling, distress, or asks for a check-in / to talk through
-  emotions, calm down, vent, or reflect on their mood.
+version: 0.1.0
 ---
 
 # Mindful Companion
