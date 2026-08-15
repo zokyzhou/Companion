@@ -1,0 +1,12 @@
+# Private local memory data — never commit
+/.mindful-companion/
+journal.jsonl
+*.jsonl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
